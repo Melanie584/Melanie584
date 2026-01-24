@@ -1,27 +1,24 @@
-Melanie Maldonado
+# Melanie Maldonado
 
-Hey there! 👋
+Hi there! 👋  
 
-I'm Melanie Maldonado, a student at Brigham Young University-Idaho interested in 
-- Computer Science
-- Web development
-
-<Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I’m a Computer Science student at Brigham Young University–Idaho with a focus on web development and software fundamentals.
 
 ## About Me
-
-- I'm currently learning ...
-- My goals are to become a Web developer and be able to code in multiple languages
-- Ask me about ...
+- Currently studying Computer Science with a Web Development minor
+- Interested in building practical, user-focused applications
+- Actively improving my skills through coursework and personal projects
 
 ## Technologies and Tools
+- Languages: HTML, CSS, JavaScript, Python, C#
+- Tools: GitHub, VS Code
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+## Projects
+- Web development assignments and projects completed as part of BYU–Idaho coursework
+- Personal and class-based projects focused on front-end development and programming fundamentals
 
-## Let's Connect!
+## Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/melanie-maldonado-aa16953a4/
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy debugging! 😊
